@@ -5,16 +5,13 @@
 
 - 🌏 Based in Oslo, Norway
 - 🚀 Currently learning JS
-- 🥓 Love bacon
-
-----
-Do you love [bacon](https://www.bacon.no)?
+- 🥓 Love [bacon](https://www.bacon.no)
 
 ----
 
 ## Skills
 
-![Current skills](https://skillicons.dev/icons?i=ae,pr,ai,ps,figma,xd,tailwind,vscode,html,css&perline=5)
+![Current skills](https://skillicons.dev/icons?i=vscode,html,css,tailwind,figma,ae,pr,ai,ps,xd&perline=5)
 
 
 ## Latest projects
